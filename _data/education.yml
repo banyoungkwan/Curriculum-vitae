@@ -18,7 +18,6 @@
 - name: Hankuk University of Foreign Studies, South Korea
   dates: 2001 – 2007
   qualification: BA Information and Communication
-  # quote: >
+  quote: >
     at Centre of Cultural Studies.
-  # description: | # this will include new lines to allow paragraphs
-    • Dissertation (MA) Title: “‘Che-chic’: Read Contemporary Appearances of ‘Che’ Guevara as Allegory”
+  description: | # this will include new lines to allow paragraphs
